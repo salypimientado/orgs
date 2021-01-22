@@ -1,0 +1,89 @@
+#+title: Periodo Invierno 2021
+#+description: Cosas de la escuela del periodo de invierno 2021
+
+* Geocultural Challenges of Globalization
+** Book
+  #+name: Understanding cultural geography
+  #+author: Jon Anderson
+*** Chapter 7:
+  <2021-01-20 Wed>
+
+**** Introduction
+
+    + This chapter discusses the practice of capitalism in today's world
+    + Capitalism affects who we are
+
+**** Capitalism rules okay?
+
+   + Capitalism is not new
+   + Capitalism became the dominant system of economic organisation,
+     following the cold war.
+
+**** Capitalism: making money
+
+   + Anyone can be rich in a capitalist society
+   + Employers always make more money than employees.
+
+**** The secret to making money: minimising and externalising costs
+
+   + Employers seek to reduce wages, employees to raise them
+   + People that work for insanely low wages often don't have choice,
+     and often believe they are lucky to get a job at all
+   + Externalities = costs that can be externalised
+   + Companies will always externalise costs when they are cheaper abroad .
+
+**** Capitalism: it's the economy, stupid. But it's culture too!
+
+   + Governments will support capitalism if they see a societal benefit to it
+   + Capitalism involves economics and culture through *commodification*
+   + Commodification = giving economic value due to cultural value and viceversa
+   + Culture is used to sell product, and product to sell culture
+   + Capitalism is commodifying culture globally
+
+**** Corporate Capitalism
+
+   + Traces created by corporations don't have limited local affects
+   + Recently corporations have become as powerful as countries (maybe even more so)
+   + Corporations' interests have been woven into the ideals of the main political
+     parties
+   + Transnationals often have so much power that they can power through regulations
+     in smaller countries.
+
+**** Capitalism: Disneyfying and McDonaldising local cultures?
+
+   + Corporations make place in order to perpetuate their profit-making culture
+   + Cultural globalisation is often a a synonym for Americanisation
+   + Local cultures tend to resist the dominant power of transnationals.
+
+**** Anti-capitalism: 'another world is possible'
+
+   + Resistance against corporate capitalism has become very common nowadays
+   + People fight capitalism
+
+**** Denaturalising capitalism
+
+   + Capitalism's traces have shifted in meaning from 'natural' to 'normal'
+
+**** Anti-capitalism: what does it stand for
+
+   + Against commodification
+   + Does not really fit now but aims to change the future
+
+**** The consequences of anti-capitalism
+
+   + Capitalist corporations have reduced the impact of movements through
+     'recuperation'
+   + Recuperation is a way to neutralise threats by playing them down
+     e.g. Making protesting a trend
+
+** Project
+***
+* Violencia, dignidad y justicia social
+
+** Proyecto individual
+
+*** TODO [#A] Lectura
+
+*** TODO [#B] Introduccion
+
+*** TODO [#C] Documento completo
