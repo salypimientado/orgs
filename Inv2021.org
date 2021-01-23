@@ -77,7 +77,7 @@
      e.g. Making protesting a trend
 
 ** Project
-***
+
 * Violencia, dignidad y justicia social
 
 ** Proyecto individual
@@ -86,10 +86,48 @@
     #+Libro: La sociedad del cansancio
 
 **** El Prometeo Cansado
+     
+     + La persona contemporanea se puede comparar con Prometeo de cierta manera
+     + Prometeo es la figura de la sociedad del cansancio y la lucha con uno mismo,
+       donde el aguila que se come el higado de Prometeo es la relacion consigo mismo
+     + Kafka plantea que a tanto cansancio se puede llegar a cansar el aguila que abria
+       las heridas
 
 **** La Violencia Neuronal
 
+     + El siglo 21 es la era de las enfermedades neuronales
+     + Por el exceso de positividad se pierden las tecnicas inmunologicas para repeler
+       la negatividad de lo extraño
+     + El que algo fuera extraño el siglo pasado era causa para su eliminacion
+     + La otredad desaparece junto con la extrañeza hoy en dia
+     + La otredad es como una respuesta inmunologica social
+     + Hoy en dia el *inmigrante* no es un extraño o causa de miedo
+     + Los inmigrantes son considerados cargas antes que amenazas
+     + La hibricdacion cultural de hoy en dia es lo opuesto a la inmunizacion
+     + En un sistema dominado por lo identico no se forman anticuerpos
+     + Un exceso de positividad no consiste en resistencia inmunologica, sino en un
+       agotamiento, rechazo o fatiga, que son manifestaciones de una violencia neuronal
+     + La violencia de la positividad no presupone ninguna enemistad y se infiltra en
+       una sociedad permisiva y pacifica
+     + Medusa = otro inmunologico en su maxima expresion
+     + Violencia neuronal = lo opuesto a la Medusa
+     + Violencia de positividad = exhaustiva
+     + En resumen, Violencia neuronal = sobreabundancia de positividad
+     
 **** Mas alla de la sociedad disciplinaria
+
+     + La sociedad disciplinaria de Foucault no queda en la sociedad actual
+     + La sociedad del rendimiento (actual) se desprende de la negatividad
+     + Palabra asociada con la sociedad de rendimiento: poder
+     + S disciplinaria: locos y criminales. S de rendimiento: depresivos y fracasados
+     + Sujeto de rendimiento paso por la fase disciplinaria, es mas productivo
+     + Sociedad disciplinaria -> depresion -> Sociedad de rendimiento
+     + Carencia de vinculos -> depresion
+     + Presion por el rendimiento -> depresion
+     + El sindrome de desgaste ocupacional pone de manifiesto un alma agotada
+     + Lo que causa la depresion es el imperativo del rendimiento implicito en la
+       nueva sociedad
+     + pg 19
 
 **** El aburrimiento profundo
 
