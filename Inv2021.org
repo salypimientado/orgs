@@ -83,6 +83,23 @@
 ** Proyecto individual
 
 *** TODO [#A] Lectura
+    #+Libro: La sociedad del cansancio
+
+**** El Prometeo Cansado
+
+**** La Violencia Neuronal
+
+**** Mas alla de la sociedad disciplinaria
+
+**** El aburrimiento profundo
+
+**** Vita Activa
+
+**** Pedagogia del mirar
+
+**** El caso Bartleby
+
+**** La sociedad del cansancio
 
 *** TODO [#B] Introduccion
 
