@@ -85,7 +85,7 @@
 *** TODO [#A] Lectura
     #+Libro: La sociedad del cansancio
 
-**** El Prometeo Cansado testazo
+**** El Prometeo Cansado
 
 **** La Violencia Neuronal
 
