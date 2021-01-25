@@ -76,15 +76,21 @@
    + Recuperation is a way to neutralise threats by playing them down
      e.g. Making protesting a trend
 
+*** DONE Chapter 8:
+    CLOSED: [2021-01-25 Mon 08:26] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
+    #+Name: Place and mobility
+
+
 ** Project
 
 * Violencia, dignidad y justicia social
 
 ** Proyecto individual
 
-*** TODO [#A] Lectura
+*** DONE [#A] Lectura
+    CLOSED: [2021-01-23 Sat 18:44]
     #+Libro: La sociedad del cansancio
-
+    #+Autor: Byung-Chul Han (한병철)
 **** El Prometeo Cansado
      
      + La persona contemporanea se puede comparar con Prometeo de cierta manera
@@ -158,7 +164,24 @@
 
 **** El caso Bartleby
 
+     + Bartleby mostraba sintomas de neurastenia
+     + Falta de iniciativa y apatia acaban con la vida de Bartleby
+     + El escriba que deja de escribir se hace una hoja en blanco
+     + El trozo de cesped en las Tombs acentua el vacio sin esperanza
+
 **** La sociedad del cansancio
-*** TODO [#B] Introduccion
+
+     + Si el dopaje fuera permitido el humano se volveria una maquina de rendimiento
+     + La vitalidad se reduce a la mera funcion y rendimiento vitales
+     + El cansancio y agotamiento excesivos son caracteristicos de un mundo
+       pobre en negatividad y excesivo en positividad
+     + El exceso del aumento de rendimiento provoca el infarto del alma
+     + Este cansancio fuerza a la violencia
+     + El cansancio del agotamiento es positivo; incapacita para hacer algo
+     + La sociedad del cansancio es lo que deberiamos buscar, permite el no-hacer
+     + La sociedad del rendimiento es la verdadera sociedad del cansancio
+
+*** DONE [#B] Introduccion
+    CLOSED: [2021-01-24 Sun 23:54] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
 
 *** TODO [#C] Documento completo
