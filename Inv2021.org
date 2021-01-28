@@ -80,8 +80,11 @@
     CLOSED: [2021-01-25 Mon 08:26] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
     #+Name: Place and mobility
 
+*** TODO Chapter 9
+    DEADLINE: <2021-01-29 Fri 10:00>
 
 ** Project
+   DEADLINE: <2021-02-03 Wed 23:59>
 
 * Violencia, dignidad y justicia social
 
@@ -151,7 +154,7 @@
      + El animal laborans moderno no renuncia a nada, y no es pasivo en lo absoluto
      + Todos somo homini sacri, pero absolutamente inaniquilables
      + Las personas con depresion desarrollan sintomas similares a los Muselmänner
-     
+
 **** Pedagogia del mirar
      
      + Segun Nietzsche el reaccionar inmediatamente a un impulso es una enfermedad
@@ -185,3 +188,13 @@
     CLOSED: [2021-01-24 Sun 23:54] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
 
 *** TODO [#C] Documento completo
+    DEADLINE: <2021-02-01 Mon 23:59>
+** TODO Reporte de lectura. La filosofía nietzscheana como herramienta para la forja de una identidad ética
+   DEADLINE: <2021-01-28 Thu 22:59>
+** Noticia
+*** TODO Hacer presentacion
+    DEADLINE: <2021-01-28 Thu 22:59>
+*** Presentar
+    SCHEDULED: <2021-01-29 Fri 07:00>
+** TODO Trabajo de investigación por equipo y exposición
+    DEADLINE: <2021-01-29 Fri 10:59>
