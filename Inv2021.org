@@ -191,10 +191,27 @@
     DEADLINE: <2021-02-01 Mon 23:59>
 ** TODO Reporte de lectura. La filosofía nietzscheana como herramienta para la forja de una identidad ética
    DEADLINE: <2021-01-28 Thu 22:59>
+*** El Eterno Retorno y el Amor Fati
+    
+    + El humano moderno es enseñado a sentirse mal por las cosas que no ha podido conseguir/hacer,
+      y no permite el amarse a si mismo
+    + El eterno retorno trata del ciclo que siguen las obras de la naturaleza y humanos
+    + El eterno retorno nos dice que el ser de otra manera es inutil y hasta podria ser dañino
+    + El amor fati es quererse a uno mismo justo como es, del modo que es
+    + No es en si el resignarse a lo que ya hay, sino dar plenitud a eso, quitando cualquier
+      sentimiento de que posiblemente es menos de lo que uno gustaria ser
+    + Requiere que uno sea capaz de apreciar las virtudes en si mismo
+    + Uno necesita abandonar lo que fue enseñado por la sociedad, y empezar a verse a si mismo sin
+      estereotipos impuestos por la sociedad
+      
+    
+*** La Transmutacion de los valores y la Voluntad de Poder
+*** El superhombre
+*** Conclusiones
 ** Noticia
 *** TODO Hacer presentacion
     DEADLINE: <2021-01-28 Thu 22:59>
 *** Presentar
     SCHEDULED: <2021-01-29 Fri 07:00>
 ** TODO Trabajo de investigación por equipo y exposición
-    DEADLINE: <2021-01-29 Fri 10:59>
+   DEADLINE: <2021-01-29 Fri 22:59>
