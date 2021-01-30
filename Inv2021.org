@@ -80,9 +80,11 @@
     CLOSED: [2021-01-25 Mon 08:26] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
     #+Name: Place and mobility
 
-*** TODO Chapter 9
-    DEADLINE: <2021-01-29 Fri 10:00>
+*** DONE Chapter 9 DEADLINE: <2021-01-29 Fri 10:00>
+    CLOSED: [2021-01-29 Fri 17:46]
 
+*** TODO Chapter 10:
+    DEADLINE: <2021-02-03 Wed>
 ** Project
    DEADLINE: <2021-02-03 Wed 23:59>
 
@@ -189,8 +191,8 @@
 
 *** TODO [#C] Documento completo
     DEADLINE: <2021-02-01 Mon 23:59>
-** TODO Reporte de lectura. La filosofía nietzscheana como herramienta para la forja de una identidad ética
-   DEADLINE: <2021-01-28 Thu 22:59>
+** DONE Reporte de lectura. La filosofía nietzscheana como herramienta para la forja de una identidad ética
+   CLOSED: [2021-01-29 Fri 17:47] DEADLINE: <2021-01-28 Thu 22:59>
 *** El Eterno Retorno y el Amor Fati
     
     + El humano moderno es enseñado a sentirse mal por las cosas que no ha podido conseguir/hacer,
@@ -209,9 +211,9 @@
 *** El superhombre
 *** Conclusiones
 ** Noticia
-*** TODO Hacer presentacion
-    DEADLINE: <2021-01-28 Thu 22:59>
-*** Presentar
-    SCHEDULED: <2021-01-29 Fri 07:00>
+*** DONE Hacer presentacion
+    CLOSED: [2021-01-29 Fri 17:40] DEADLINE: <2021-01-28 Thu 22:59>
+*** DONE Presentar
+    CLOSED: [2021-01-29 Fri 17:40] SCHEDULED: <2021-01-29 Fri 07:00>
 ** TODO Trabajo de investigación por equipo y exposición
-   DEADLINE: <2021-01-29 Fri 22:59>
+   DEADLINE: <2021-02-02 Tue 22:59>
