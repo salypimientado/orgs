@@ -80,11 +80,21 @@
     CLOSED: [2021-01-25 Mon 08:26] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
     #+Name: Place and mobility
 
+<<<<<<< HEAD
 *** DONE Chapter 9
     CLOSED: [2021-02-08 Mon 13:53] DEADLINE: <2021-01-29 Fri 10:00>
 
 ** DONE Project
    CLOSED: [2021-02-08 Mon 13:53] DEADLINE: <2021-02-03 Wed 23:59>
+=======
+*** DONE Chapter 9 DEADLINE: <2021-01-29 Fri 10:00>
+    CLOSED: [2021-01-29 Fri 17:46]
+
+*** TODO Chapter 10:
+    DEADLINE: <2021-02-03 Wed>
+** Project
+   DEADLINE: <2021-02-03 Wed 23:59>
+>>>>>>> 8d93d66dc13b2523e9a518ec1f99fc68e4a1464f
 
 * Violencia, dignidad y justicia social
 
