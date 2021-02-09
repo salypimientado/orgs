@@ -80,11 +80,11 @@
     CLOSED: [2021-01-25 Mon 08:26] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
     #+Name: Place and mobility
 
-*** TODO Chapter 9
-    DEADLINE: <2021-01-29 Fri 10:00>
+*** DONE Chapter 9
+    CLOSED: [2021-02-08 Mon 13:53] DEADLINE: <2021-01-29 Fri 10:00>
 
-** Project
-   DEADLINE: <2021-02-03 Wed 23:59>
+** DONE Project
+   CLOSED: [2021-02-08 Mon 13:53] DEADLINE: <2021-02-03 Wed 23:59>
 
 * Violencia, dignidad y justicia social
 
@@ -112,7 +112,7 @@
      + La otredad es como una respuesta inmunologica social
      + Hoy en dia el *inmigrante* no es un extraño o causa de miedo
      + Los inmigrantes son considerados cargas antes que amenazas
-     + La hibricdacion cultural de hoy en dia es lo opuesto a la inmunizacion
+     + La hibridacion cultural de hoy en dia es lo opuesto a la inmunizacion
      + En un sistema dominado por lo identico no se forman anticuerpos
      + Un exceso de positividad no consiste en resistencia inmunologica, sino en un
        agotamiento, rechazo o fatiga, que son manifestaciones de una violencia neuronal
@@ -124,7 +124,7 @@
      + En resumen, Violencia neuronal = sobreabundancia de positividad
      
 **** Mas alla de la sociedad disciplinaria
-
+     
      + La sociedad disciplinaria de Foucault no queda en la sociedad actual
      + La sociedad del rendimiento (actual) se desprende de la negatividad
      + Palabra asociada con la sociedad de rendimiento: poder
@@ -187,10 +187,12 @@
 *** DONE [#B] Introduccion
     CLOSED: [2021-01-24 Sun 23:54] SCHEDULED: <2021-01-24 Sun> DEADLINE: <2021-01-25 Mon>
 
-*** TODO [#C] Documento completo
-    DEADLINE: <2021-02-01 Mon 23:59>
-** TODO Reporte de lectura. La filosofía nietzscheana como herramienta para la forja de una identidad ética
-   DEADLINE: <2021-01-28 Thu 22:59>
+*** DONE [#C] Documento completo
+    CLOSED: [2021-02-04 Thu 11:47] DEADLINE: <2021-02-01 Mon 23:59>
+
+**** 
+** DONE Reporte de lectura. La filosofía nietzscheana como herramienta para la forja de una identidad ética
+   CLOSED: [2021-02-03 Wed 07:25] DEADLINE: <2021-01-28 Thu 22:59>
 *** El Eterno Retorno y el Amor Fati
     
     + El humano moderno es enseñado a sentirse mal por las cosas que no ha podido conseguir/hacer,
@@ -209,9 +211,9 @@
 *** El superhombre
 *** Conclusiones
 ** Noticia
-*** TODO Hacer presentacion
-    DEADLINE: <2021-01-28 Thu 22:59>
-*** Presentar
-    SCHEDULED: <2021-01-29 Fri 07:00>
-** TODO Trabajo de investigación por equipo y exposición
-   DEADLINE: <2021-01-29 Fri 22:59>
+*** DONE Hacer presentacion
+    CLOSED: [2021-02-03 Wed 07:25] DEADLINE: <2021-01-28 Thu 22:59>
+*** DONE Presentar
+    CLOSED: [2021-02-08 Mon 13:53] SCHEDULED: <2021-01-29 Fri 07:00>
+** DONE Trabajo de investigación por equipo y exposición
+   CLOSED: [2021-02-03 Wed 07:25] DEADLINE: <2021-01-29 Fri 22:59>

@@ -1,0 +1,180 @@
+#+OPTIONS: ^:{}
+#+STARTUP: hidestars
+
+
+#+title: Periodo Febrero-Junio 2021
+#+description: Tareas, notas y proyectos del semestre
+
+* Interconexión de dispositivos
+
+** Tareas
+
+** Clases
+
+*** Ir a clase
+    
+**** TODO Clase Lunes
+     SCHEDULED: <2021-02-15 Mon 06:00 +1w>
+     :PROPERTIES:
+     :LAST_REPEAT: [2021-02-08 Mon 13:54]
+     :END:
+   
+     - State "DONE"       from "TODO"       [2021-02-08 Mon 13:54]
+     [[https://itesm.zoom.us/j/2388203098][6AM]]
+     
+**** TODO Clase Martes
+     SCHEDULED: <2021-02-16 Tue 06:00 +1w>
+     :PROPERTIES:
+     :LAST_REPEAT: [2021-02-09 Tue 06:07]
+     :END:
+   
+     - State "DONE"       from "TODO"       [2021-02-09 Tue 06:07]
+     [[https://itesm.zoom.us/j/2388203098][6AM]]
+
+     [[https://itesm.zoom.us/j/82008784562][8AM]]
+**** TODO Clase Miercoles
+     SCHEDULED: <2021-02-10 Wed 06:00 +1w>
+   
+     [[https://itesm.zoom.us/j/2388203098][6AM]]
+
+     [[https://itesm.zoom.us/j/82008784562][8AM]]
+**** TODO Clase Jueves
+     SCHEDULED: <2021-02-11 Thu 06:00 +1w>
+   
+     [[https://itesm.zoom.us/j/2388203098][6AM]]
+     
+**** TODO Clase Viernes
+     SCHEDULED: <2021-02-12 Fri 06:00 +1w>
+   
+     [[https://itesm.zoom.us/j/2388203098][6AM]]
+
+     [[https://itesm.zoom.us/j/82008784562][8AM]]
+     
+*** Clase 06:00 
+**** Sesion 2
+     -Router:
+       + Permiten la interconexion de redes
+       + Permiten que computadoras se conecten
+       + Posee un protocolo de enrutamiento
+       + Dual: 2.4G/5G
+     -Switch:
+       + Permiten las conexiones fisicas
+       + Pueden almacenar y aprender direcciones de red
+       + Capaces de filtrado y enrutamiento
+     -Firewall:
+       + Impide conexiones no permitidas y permite las autorizadas
+       + Cuenta con capacidad de reglas y criterios de filtrado
+     -Ruta:
+       + Secuencia de enlaces de comunicaciones que atraviesa un paquete para llegar a donde debe
+     -Aplicaciones distribuidas:
+       + Aplicaciones que requieren varios hosts que intercambian datos entre si
+       + Proporcionan un API
+        
+**** TODO Curso packet tracer
+
+** Proyecto
+
+* Implementación de métodos computacionales
+  
+** Tareas
+   
+*** TODO Tarea 1
+    DEADLINE: <2021-02-10 Wed 23:00>
+
+** Clases
+   
+*** Ir a clase
+    [[https://itesm.zoom.us/j/2343618041][Link]]
+**** TODO Clase Lunes
+     SCHEDULED: <2021-02-08 Mon 14:00 +1w>
+   
+**** TODO Clase Jueves
+     SCHEDULED: <2021-02-11 Thu 14:00 +1w>
+     
+
+   
+*** Sesion 1
+   
+**** Conjuntos 
+     
+***** Definicion
+     + Coleccion de elementos.
+     + Mayusculas para describirlos y minusculas para sus elementos.
+     + Se definen por enumeracion o descripcion.
+
+***** Notacion
+     + Pertenencia: a ∈ A, cuando a es un elemento de A.
+     + Cardinalidad: |A| representa el número de elementos en A.
+     + Inclusion: A ⊆ B si todos los elementos de A son elementos de B.
+     + Igualdad: Si A ⊆ B y B ⊆ A, entonces A = B.
+     + Inclusion propia: A ⊂ B si todos los elementos de A son elementos de B y A != B.
+     + Conjunto vacio: ∅ o {} para representar un conjunto sin elementos.
+
+***** Operaciones
+     + Union: Todos los que se encuentran en A y  todos los que se encuentran en B.
+       - Conmutativa
+       - Asociativa
+       - Distributiva
+       - Ley de DeMorgan
+     + Interseccion: Todos los elementos que se encuentran en A y B al mismo tiempo.
+       - Conmutativa
+       - Asociativa
+       - Distributiva
+       - Ley de DeMorgan
+     + Resta: Todos los elementos que se encuentran en A y no en B.
+     + Complemento: Todos los elementos que no se encuentran en A.
+     + Producto Cartesiano: A × B = {(x, y) : x ∈ A, y ∈ B}
+       - Ejemplo: A = {1, 2, 3} B = {1, 2}
+       A × B = {(1, 1),(1, 2),(2, 1),(2, 2),(3, 1),(3, 2)}
+     + Conjunto potencia: El conjunto de todos los subconjuntos de A
+       - Denotado por denotado por o ℘(A)
+       ℘({a, b, c}) = {∅, {a}, {b}, {c}, {a, b}, {a, c}, {b, c}, {a, b, c}}
+       - |P(A)| = 2^{|A|}
+ 
+**** Relaciones
+     
+***** Relaciones binarias
+      + Relaciones reflexivas
+        Se dice que es reflexiva sobre un conjunto A si y solo si (a, a) ∈ R para todo a ∈ A.
+      + Relaciones transitivas
+        Decimos que R es transitiva si y sólo si cuando (a, b) ∈ R y (b, c) ∈ R, entonces (a, c) ∈ R.
+      + Relaciones simetricas
+        Una relación R es simétrica si y sólo si cuando (a, b) ∈ R, entonces (b, a) ∈ R.
+
+***** Funcion
+      + Una función unitaria de un conjunto A en un conjunto B es cualquier relación binaria R
+         de A a B que satisfaga la condición de que para todo a ∈ A existe exactamente un b ∈ B tal que (a, b) ∈ R.
+      + Dominio: A
+      + Rango: B
+      + Imagen: Conjunto de B que se utilizan en la funcion
+      + Funcion inyectiva: Se dice que f es inyectiva (o uno a uno) si y sólo si cuando a != a', entonces f(a) != f(a').
+      + Funcion sobreyectiva: imagen(f) = B.
+      + Funcion biyectiva: inyectiva y sobreyectiva
+         
+***** Conjuntos Infinitos
+****** Naturales 
+       Contable
+****** Enteros 
+       Biyectivo
+****** Racionales 
+       Biyectivo
+****** Irracionales 
+       Infinito no contable
+****** Reales 
+       Infinito no contable
+       
+**** Logica
+     + OR
+     + AND
+     + NOT
+       
+       Implicacion
+      | A | B | C |
+      |---+---+---|
+      | T | T | T |
+      | T | F | F |
+      | F | T | T |
+      | F | F | T |
+
+** Proyecto
+  
